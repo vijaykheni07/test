@@ -16,4 +16,4 @@ function Model({isvisible, onClose, children}) {
   )
 }
 
-export default Model
+export default Model``
