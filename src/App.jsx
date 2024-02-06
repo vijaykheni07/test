@@ -217,7 +217,7 @@ function App() {
         <section className="mx-auto w-full max-w-7xl px-4 py-4">
           <div className="flex flex-col space-y-4 md:flex-row md:items-center md:justify-between md:space-y-0">
             <div>
-              <h2 className="text-lg font-bold">Employees</h2>
+              <h2 className="text-lg font-semibold">Employees</h2>
               <p className="mt-1 text-sm text-gray-700">
                 This is a list of all vaibhav. You can add new employees, edit
                 or delete existing ones.
