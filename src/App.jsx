@@ -219,7 +219,7 @@ function App() {
             <div>
               <h2 className="text-lg font-semibold">Employees</h2>
               <p className="mt-1 text-sm text-gray-700">
-                This is a list of all vaibhav. You can add new employees, edit
+                This is a list of all employees. You can add new employees, edit
                 or delete existing ones.
               </p>
             </div>
